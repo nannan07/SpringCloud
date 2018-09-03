@@ -21,3 +21,4 @@ Spring Cloud 为开发者提供了在分布式系统（配置管理，服务发�
 
 <hr>
 <h1>Spring Cloud架构</h1>
+<img src = "https://github.com/nannan0713/SpringCloud/blob/master/%E5%9B%BE%E7%89%87%201.png"></img>
